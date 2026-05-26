@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-I'm a React Native developer based in London with a focus on **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack.
+I'm a React Native developer based in London, UK, specialising in **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack.
 
 Too many mobile apps treat accessibility as an afterthought. I think that needs to change. It should be built in from the start, not bolted on at the end.
 
