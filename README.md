@@ -2,7 +2,7 @@
 
 I'm a React Native developer based in London, UK, specialising in **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack.
 
-Accessibility in mobile isn't an edge case; it's a requirement. It should be built in from the start, not bolted on at the end. Too many mobile apps treat accessibility as an afterthought. I think that needs to change.
+Accessibility in mobile isn't an edge case; it's a requirement and should be built in from the start, not bolted on at the end. Too many mobile apps treat accessibility as an afterthought. I think that needs to change.
 
 ---
 
