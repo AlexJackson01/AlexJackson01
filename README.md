@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-I'm a React Native developer based in London with a focus on **accessibility** — making mobile apps work properly for everyone, including people who rely on assistive technology like VoiceOver and TalkBack.
+I'm a React Native developer based in London with a focus on **accessibility** - making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack.
 
 Too many mobile apps treat accessibility as an afterthought. I think that needs to change. It should be built in from the start, not bolted on at the end.
 
@@ -8,17 +8,17 @@ Too many mobile apps treat accessibility as an afterthought. I think that needs 
 
 ## What I'm working on
 
-Building developer tooling for the React Native ecosystem — specifically around accessibility. More soon.
+Building developer tooling for the React Native ecosystem - specifically around accessibility. More soon.
 
 ---
 
 ## What I've worked on
 
-- **Animated data visualisation** — custom chart systems with gesture handling, tap and pan interactions and dynamic tooltip positioning in production RN apps
-- **Accessibility systems** — fixing screen reader incompatibilities in third-party libraries, contributing fixes upstream to open source and building accessible patterns for complex interactive UI
-- **Cross-functional accessibility** — WCAG sessions with PMs and designers, internal presentations on assistive technology tools and testing, upstream open source contributions
-- **Auth flows** — social auth (Google and Apple), password reset and comprehensive error handling with Supabase
-- **Onboarding and documentation** — technical documentation and knowledge sharing for complex, multi-state domain systems
+- **Animated data visualisation** - custom chart systems with gesture handling, tap and pan interactions and dynamic tooltip positioning in production RN apps
+- **Accessibility systems** - fixing screen reader incompatibilities in third-party libraries, contributing fixes upstream to open source and building accessible patterns for complex interactive UI
+- **Cross-functional accessibility** - WCAG sessions with PMs and designers, and internal presentations on assistive technology tools and testing
+- **Auth flows** - social auth (Google and Apple), password reset and comprehensive error handling with Supabase
+- **Onboarding and documentation** - technical documentation and knowledge sharing for complex, multi-state domain systems
 
 ---
 
@@ -26,7 +26,7 @@ Building developer tooling for the React Native ecosystem — specifically aroun
 
 Accessibility in mobile isn't an edge case - it's a responsibility. I've spent time making charts navigable by screen readers, fixing focus management and explaining assistive technology to developers who've never tested with it. That work matters more to me than shipping fast.
 
-I also care about the developer experience behind the things I build — not just that they work, but that they're easy to understand and build on. Good code isn't just functional — it's clear, well documented and does what you'd expect.
+I also care about the developer experience behind the things I build - not just that they work, but that they're easy to understand and build on. Good code isn't just functional - it's clear, well documented and does what you expect.
 
 ---
 
