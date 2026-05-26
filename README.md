@@ -64,12 +64,6 @@ I also care about the developer experience behind the things I build — not jus
 
 ---
 
-## Writing
-
-I write about React Native, accessibility, and developer experience at **[blog link]**.
-
----
-
 ## Get in touch
 
-[LinkedIn](https://linkedin.com/in/alexjackson) · [Blog](#) · London, UK · she/her
+[LinkedIn](https://linkedin.com/in/alex-j-jackson) · London, UK · she/her
