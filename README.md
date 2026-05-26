@@ -1,8 +1,10 @@
 # Hey, I'm Alex 👋
 
-I'm a React Native developer based in London, UK, specialising in **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack.
+I'm a React Native developer based in London, UK. I specialise in **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack. 
 
-Accessibility in mobile isn't an edge case; it's a requirement and should be built in from the start, not bolted on at the end. Too many mobile apps treat accessibility as an afterthought. I think that needs to change.
+Accessibility in mobile isn't an edge case; it's a requirement and should be built in from the start. Too many mobile apps treat accessibility as an afterthought.
+
+**I think that needs to change.**
 
 ---
 
@@ -24,7 +26,7 @@ Building developer tooling for the React Native ecosystem - specifically around 
 
 ## What I care about
 
-Accessibility in mobile isn't an edge case; it's a responsibility. I've spent time making charts navigable by screen readers, fixing focus management and explaining assistive technology to developers who've never tested with it. That work matters more to me than shipping fast.
+Accessibility in mobile is our responsibility. I've spent time making charts navigable by screen readers, fixing focus management and explaining assistive technology to developers who've never tested with it. Work that matters more to me than shipping fast.
 
 I also care about the developer experience behind the things I build - not just that they work, but that they're easy to understand and build on. Good code isn't just functional - it's clear, well documented and does what you expect.
 
@@ -65,5 +67,7 @@ I also care about the developer experience behind the things I build - not just 
 ---
 
 ## Get in touch
+
+Feel free to get in touch on LinkedIn, especially if you'd like consultancy on making your RN app accessible.
 
 [LinkedIn](https://linkedin.com/in/alex-j-jackson) · London, UK · she/her
