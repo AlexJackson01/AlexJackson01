@@ -4,6 +4,8 @@
 
 ✍️ Writing: [alexjjackson.hashnode.dev](https://alexjjackson.hashnode.dev)
 
+---
+
 I'm a React Native developer based in London, UK. I specialise in **accessibility** and making mobile apps accessible for all, including users who rely on assistive technology like VoiceOver and TalkBack. 
 
 Accessibility in mobile isn't an edge case; it's a requirement and should be built in from the start. Too many mobile apps treat accessibility as an afterthought.
