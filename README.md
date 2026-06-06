@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-🔧 Building: developer tooling for RN accessibility 
+🔧 Building: developer tooling for React Native accessibility 
 
 ✍️ Writing: [alexjjackson.hashnode.dev](https://alexjjackson.hashnode.dev)
 
